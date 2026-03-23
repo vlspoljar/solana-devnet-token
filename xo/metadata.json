@@ -2,5 +2,14 @@
   "name": "XO Cash",
   "symbol": "XO",
   "description": "XO Cash",
-  "image": "https://my-image-url.com/logo.png"
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "logo.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
